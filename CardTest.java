@@ -1,6 +1,5 @@
 package com.cnu.blackjack;
 
-import com.cnu.blackjack.com.cnu.blackjack.Suit;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertTrue;
